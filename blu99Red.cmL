@@ -1,0 +1,4 @@
+# Comment line (whole lines only) begin with '#'
+edgeList = [0.00, 0.99, 1.00]
+# Blue-Red 2
+rgbList = [#0000FF, #ff0000]
